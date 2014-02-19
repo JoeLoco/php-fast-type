@@ -14,6 +14,12 @@ How to use
 
 **Obs: look at sample!**
 
+Contribute (with the pog)
+==============
+
+1. composer install
+2. ./vendor/bin/phpunit
+
 FAQ
 ============================
 None
