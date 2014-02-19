@@ -1,0 +1,24 @@
+{
+	"name": "joestick/php-fast-type",
+	"description": "Shorten most used php functions for the win",
+	"keywords": ["php", "fast", "pog"],
+	"homepage": "http://github.com/joestick/php-fast-type",
+	"version": "0.0.1",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "João Santos",
+			"homepage": "http://mktvirtual.com.br",
+			"role": "Developer"
+		}
+	],
+	"require": {
+		"php": ">=5.3"
+	},
+	"require-dev": {
+		"phpunit/phpunit": "3.7.*"
+	},
+	"config": {
+		"vendor-dir": "vendor"
+	}
+}
