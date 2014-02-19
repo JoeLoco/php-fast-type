@@ -5,6 +5,8 @@ version: 0.1 alpha
 
 Shorten most used php functions for the win
 
+[![Build Status](https://travis-ci.org/plastic/php-fast-type.png?branch=master)](https://travis-ci.org/plastic/php-fast-type)
+
 How to use
 ==============
 
