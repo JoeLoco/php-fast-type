@@ -6,10 +6,10 @@ require_once 'pft.php';
 ec("fast");
 
 // shorten 'glob'
-echo g("fast");
+echo g("faster");
 
 // shorten 'print_r'
-pr(array("very","fast"));
+pr(array("very","fast","mother","fucker"));
 
 
 ?>
